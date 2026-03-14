@@ -37,7 +37,7 @@ A simple Java TUI app that allows us terminal-dwellers to monitor stock prices i
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lyubomir-bozhinov/mticky.git
+   git clone https://github.com/Barnett-Studios/mticky.git
    cd mticky
    ```
 
@@ -55,7 +55,7 @@ A simple Java TUI app that allows us terminal-dwellers to monitor stock prices i
 The application will prompt you for your Finnhub API key on its first run. Once provided, the key will be saved in your local configuration for future use. The refresh interval is also configured directly within the TUI.
 
 ### Run from Binary (Alternative)
-For a quicker start, you can download the pre-built binaries from the [releases page](https://github.com/lyubomir-bozhinov/mticky/releases).
+For a quicker start, you can download the pre-built binaries from the [releases page](https://github.com/Barnett-Studios/mticky/releases).
 
 1.  **Download the appropriate binary** for your operating system and architecture (e.g., `mticky-vX.Y.Z-linux-amd64.tar.gz` for Linux 64-bit, `mticky-vX.Y.Z-windows-amd64.zip` for Windows 64-bit).
 
@@ -339,7 +339,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/lyubomir-bozhinov/mticky/issues)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/Barnett-Studios/mticky/issues)
 
 ---
 
