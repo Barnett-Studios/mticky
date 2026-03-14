@@ -345,4 +345,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## About
 
-Built and maintained by [Barnett Studios](https://barnett-studios.com) — a technology consultancy specialising in fractional technical leadership for startups and scale-ups.
+Built and maintained by [Barnett Studios](https://barnett-studios.com) — building products, teams, and systems that last. Part-time technical leadership for startups and scale-ups.
