@@ -343,12 +343,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## About Me
+## About
 
-I build things — products, teams, systems… occasionally IKEA furniture (with mixed results). I’ve led engineering in everything from scrappy startups to big enterprises, but what I really love is turning ideas into real, useful tech.
-
-I’m into mentoring, scaling systems, and solving problems that make people say “well, that’s impossible.”
-
-Thanks for stopping by!
-
-**Happy Trading!** 📈
+Built and maintained by [Barnett Studios](https://barnett-studios.com) — a technology consultancy specialising in fractional technical leadership for startups and scale-ups.
