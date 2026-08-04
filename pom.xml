@@ -25,7 +25,7 @@
   <logback.version>1.4.14</logback.version>
   <junit.version>5.10.1</junit.version>
   <mockito.version>5.8.0</mockito.version>
-  <wiremock.version>3.0.1</wiremock.version>
+  <wiremock.version>3.0.3</wiremock.version>
   <checkstyle.version>10.12.5</checkstyle.version>
   <native-build-tools.version>0.9.28</native-build-tools.version>
 </properties>
